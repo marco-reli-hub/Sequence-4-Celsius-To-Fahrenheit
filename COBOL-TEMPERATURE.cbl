@@ -1,5 +1,4 @@
-      *    4. Write a code that will input for the Celsius and
-      *       then compute and display the equivalent to Fahrenheit.
+      *    4. Write a COBOL code that will input for the Celsius and then compute and display the equivalent to Fahrenheit.
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. CELSIUS-TO-FAHRENHEIT-PROGRAM.
