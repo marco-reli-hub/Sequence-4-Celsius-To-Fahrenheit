@@ -1,4 +1,4 @@
-// 4. Write a code that will input for the Celsius and then compute and display the equivalent to Fahrenheit.
+// 4. Write a C++ code that will input for the Celsius and then compute and display the equivalent to Fahrenheit.
 
 #include <iostream>
 using namespace std;
